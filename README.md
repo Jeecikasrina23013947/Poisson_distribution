@@ -1,6 +1,6 @@
 # Fitting Poisson  distribution
-## Name JAYARAJ B
-## Reg.No. 24013576
+## Name JECIKASRINA M
+## Reg.No. 212223100015
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
