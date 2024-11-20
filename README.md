@@ -1,7 +1,7 @@
 # Fitting Poisson  distribution
 ## Name JECIKASRINA M
 ## Reg.No. 212223100015
-# Aim : 
+# Aim :  
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
 
